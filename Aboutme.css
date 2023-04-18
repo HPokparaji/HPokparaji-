@@ -1,0 +1,11 @@
+body{
+  text-align: center;
+  background-color: black;
+  color: white;
+  font-size: 30px;
+  text-shadow: 30px;
+  padding: 5px;
+}
+.image{
+  padding-right: 34px;
+}
