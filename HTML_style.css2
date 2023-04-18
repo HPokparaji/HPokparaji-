@@ -1,0 +1,82 @@
+h1{
+  background-color: green
+;}
+body{margin: 0px;}
+.header h1{text-align: center;
+color:white;
+padding: 30px; 
+margin: 0px; 
+font-size:60px;
+  text-shadow: 2px 2px 2px black;
+}
+.header3{
+  background-color: darkgray;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+.header3 nav ul{
+  display: inline-flex;
+  list-style: none;
+  float: right;
+  padding: 2px;
+  margin-top: 0px;
+  margin-right: 30px;
+}
+.header3 nav ul li{
+  margin-right: 15px;
+}
+.header3 nav ul li a{
+  text-decoration: none;
+  color: blue;
+}
+.header3 nav ul li a:hover{
+  color: white;
+  border: 1px solid white;
+  border-radius: 5px;
+  background-color: darkgrey;
+  padding: 2px;
+  font-weight: bolder;
+}
+
+
+
+.field fieldset{
+  margin-left: 30px;
+margin-right:30px;
+  background-color: rgb(119, 136, 153);
+border-radius: 10px;
+}
+.field fieldset legend{
+  border-radius: 10px;
+  padding:2px;
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: white;
+  color: red;
+}
+.Field2 fieldset
+{
+  background-color: seagreen;}
+.Engineering{ 
+  float: right;}
+.environment science{
+  float: right;}
+  .science{
+    float: right;
+  }
+  .level{
+   text-align: center;
+  }
+  .heritage{ 
+ color: green;
+ font-family: serif;
+  }
+  .submit{
+   text-align: center;
+  }
+  .button{ 
+   padding: 5px;
+  }
+.field fieldset footer{
+    background-color: rgb(119 136 153);
+    color: black;}
